@@ -1,0 +1,12 @@
+<root>
+    <!--  存储数据类型：Map<String,Map<String,String>> -->
+    <cl>
+        <name>chenliang</name>
+        <age>24</age>
+    </cl>
+
+    <zl>
+        <name>zenglei</name>
+        <age>22</age>
+    </zl>
+</root>
